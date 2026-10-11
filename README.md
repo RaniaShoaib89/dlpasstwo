@@ -1,4 +1,4 @@
-# Deep Learning for Perception — Assignment 2: Section B
+# Deep Learning for Perception: Assignment 2: Section B
 
 **Roll Number:** 23F-0650  
 **Assignment:** DL_ASS02  
